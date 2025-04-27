@@ -1,1 +1,1 @@
-Chatbot link is in the Emergency_Chat_Bot_MD
+Chatbot link is in the Emergency_Chat_Bot.md
